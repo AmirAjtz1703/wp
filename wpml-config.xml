@@ -1,0 +1,25 @@
+<wpml-config>
+    <admin-texts>
+        <key name="hostingpress_options">
+            <key name="logo_for_header">
+                <key name="url" />
+            </key>
+            <key name="favicon">
+                <key name="url" />
+            </key>
+            <key name="slogan_text_for_header" />
+
+            <key name="contactus_address" />
+            <key name="contactus_email_address" />
+            <key name="contactus_phone_number" />
+            <key name="contactus_fax_number" />
+
+            <key name="logo_for_footer">
+                <key name="url" />
+            </key>
+            <key name="footer_about_txt" />
+            <key name="footer_copyright" />
+            <key name="display_footer_social_icons" />
+        </key>
+    </admin-texts>
+</wpml-config>

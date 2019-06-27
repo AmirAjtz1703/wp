@@ -1,0 +1,1326 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Hosting\n"
+"POT-Creation-Date: 2016-06-03 08:51+0530\n"
+"PO-Revision-Date: 2016-06-03 08:51+0530\n"
+"Last-Translator: \n"
+"Language-Team: Bhavesh <bhavesh8567@gmail.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_html_e;esc_attr__;esc_attr_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: js\n"
+"X-Poedit-SearchPathExcluded-1: css\n"
+"X-Poedit-SearchPathExcluded-2: images\n"
+"X-Poedit-SearchPathExcluded-3: fonts\n"
+"X-Poedit-SearchPathExcluded-4: vendors\n"
+
+#: 404.php:7
+msgid "page not found"
+msgstr ""
+
+#: 404.php:12
+msgid "opppps... Sorry"
+msgstr ""
+
+#: 404.php:13
+msgid "Sorry, but we can&#146;t seem to find the page you are looking for."
+msgstr ""
+
+#: 404.php:14
+msgid "go to our homepage"
+msgstr ""
+
+#: comments.php:26
+msgid "Comments are closed."
+msgstr ""
+
+#: content-none.php:2
+msgid "No Post Found"
+msgstr ""
+
+#: content.php:5 partial/post/post-meta.php:3
+msgid "comments"
+msgstr ""
+
+#: content.php:11 partial/post/post-content.php:6
+msgid "read more"
+msgstr ""
+
+#: footer.php:14
+msgid "chat with us"
+msgstr ""
+
+#: footer.php:34
+msgid "Product"
+msgstr ""
+
+#: functions.php:43
+msgid "Primary Navigation"
+msgstr ""
+
+#: functions.php:44
+msgid "Footer Navigation"
+msgstr ""
+
+#: functions.php:98
+msgid "Blog Post"
+msgstr ""
+
+#: functions.php:99
+msgid "This sidebar is for blog posts."
+msgstr ""
+
+#: header.php:75
+msgid "Login"
+msgstr ""
+
+#: includes/domain-checker.php:6
+msgid "Hosting Press"
+msgstr ""
+
+#: includes/domain-checker.php:10 includes/domain-checker.php:13
+msgid "Button Label"
+msgstr ""
+
+#: includes/domain-checker.php:16
+msgid "reCaptcha"
+msgstr ""
+
+#: includes/domain-checker.php:17
+msgid "Protect your domain checker from spam and abuse."
+msgstr ""
+
+#: includes/domain-checker.php:19 includes/domain-checker.php:27
+msgid "Enable"
+msgstr ""
+
+#: includes/domain-checker.php:24
+msgid "Advanced Options"
+msgstr ""
+
+#: includes/domain-checker.php:25
+msgid "Show Advanced Options"
+msgstr ""
+
+#: includes/domain-checker.php:33
+msgid "Width"
+msgstr ""
+
+#: includes/domain-checker.php:36
+msgid "To make it responsive just leave it."
+msgstr ""
+
+#: includes/domain-checker.php:41
+msgid "Product ID"
+msgstr ""
+
+#: includes/domain-checker.php:44
+msgid "For multiple checker for multiple product WooCommerce."
+msgstr ""
+
+#: includes/domain-checker.php:49
+msgid "TLDs"
+msgstr ""
+
+#: includes/domain-checker.php:52
+msgid ""
+"Multiple TLDs check if user not define tld on the domain. (e.g: com,net,org,"
+"info)"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:333
+msgid "Install Required Plugins"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:334
+msgid "Install Plugins"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:335
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:336
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:397
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:398
+msgid "Return to the dashboard"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:399
+#: includes/plugins/class-tgm-plugin-activation.php:3025
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:400
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:402
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:403
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:404
+msgid "Dismiss this notice"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:405
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:520
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:521
+msgid "Update Required"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:635
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:824
+#: includes/plugins/class-tgm-plugin-activation.php:3434
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:931
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:931
+#: includes/plugins/class-tgm-plugin-activation.php:934
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:934
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2163
+msgid "Required"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2166
+msgid "Recommended"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2182
+msgid "WordPress Repository"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2185
+msgid "External Source"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2188
+msgid "Pre-Packaged"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2205
+msgid "Not Installed"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2209
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2211
+msgid "Active"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2217
+msgid "Required Update not Available"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2220
+msgid "Requires Update"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2223
+msgid "Update recommended"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2375
+msgid "Installed version:"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2383
+msgid "Minimum required version:"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2395
+msgid "Available version:"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2418
+#, php-format
+msgid ""
+"No plugins to install, update or activate. <a href=\"%1$s\">Return to the "
+"Dashboard</a>"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2432
+msgid "Plugin"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2433
+msgid "Source"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2434
+msgid "Type"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2438
+msgid "Version"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2439
+msgid "Status"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2566
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2599
+msgid "Install"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2605
+msgid "Update"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2608
+msgid "Activate"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2639
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2641
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2677
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2679
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2784
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2810
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:3024
+msgid "Plugin activation failed."
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:3358
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:3360
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:3361
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:3365
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:3366
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:3366
+#: includes/plugins/class-tgm-plugin-activation.php:3372
+msgid "Show Details"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:3366
+#: includes/plugins/class-tgm-plugin-activation.php:3372
+msgid "Hide Details"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:3367
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:3368
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:3371
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:3372
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:3373
+msgid "All installations have been completed."
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:3374
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: includes/theme-functions.php:159
+msgid "Comments"
+msgstr ""
+
+#: includes/theme-functions.php:205
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: includes/theme-functions.php:218
+msgid "Edit"
+msgstr ""
+
+#: includes/theme-functions.php:247
+msgid "Your Name"
+msgstr ""
+
+#: includes/theme-functions.php:248
+msgid "E-Mail"
+msgstr ""
+
+#: includes/theme-functions.php:254
+msgid "Comment"
+msgstr ""
+
+#: includes/theme-functions.php:277
+msgid " < "
+msgstr ""
+
+#: includes/theme-functions.php:278
+msgid " > "
+msgstr ""
+
+#: includes/theme-functions.php:309 includes/theme-options.php:174
+msgid "Home"
+msgstr ""
+
+#: includes/theme-functions.php:324
+msgid "Blog"
+msgstr ""
+
+#: includes/theme-functions.php:357
+msgid "Tag: "
+msgstr ""
+
+#: includes/theme-functions.php:364
+msgid "404 - Page not Found"
+msgstr ""
+
+#: includes/theme-functions.php:372 includes/widget-categories.php:47
+#: includes/widget-search.php:28 includes/widget-search.php:46
+#: includes/widget-tagcloud.php:49
+msgid "Search"
+msgstr ""
+
+#: includes/theme-options.php:41 includes/theme-options.php:43
+msgid "HostingPress Options"
+msgstr ""
+
+#: includes/theme-options.php:182 includes/theme-options.php:733
+msgid "Logo"
+msgstr ""
+
+#: includes/theme-options.php:183 includes/theme-options.php:734
+msgid ""
+"Upload logo image for your Website. Otherwise site title will be displayed "
+"in place of logo."
+msgstr ""
+
+#: includes/theme-options.php:191
+msgid "Favicon"
+msgstr ""
+
+#: includes/theme-options.php:194
+msgid "Add/Upload Your Website Favicon here"
+msgstr ""
+
+#: includes/theme-options.php:199
+msgid "Display Top Header Bar on Header"
+msgstr ""
+
+#: includes/theme-options.php:200
+msgid "Do you want to display Top Header Bar above Menu ?"
+msgstr ""
+
+#: includes/theme-options.php:208
+msgid "Slogan Text"
+msgstr ""
+
+#: includes/theme-options.php:209
+msgid "Provide the Slog text to display in header top bar"
+msgstr ""
+
+#: includes/theme-options.php:217
+msgid "Sticky Header"
+msgstr ""
+
+#: includes/theme-options.php:218
+msgid "Enable or disable Sticky Header"
+msgstr ""
+
+#: includes/theme-options.php:224
+msgid "Loader Enable"
+msgstr ""
+
+#: includes/theme-options.php:225
+msgid "Enable or disable Loader"
+msgstr ""
+
+#: includes/theme-options.php:232
+msgid "Header Top Padding"
+msgstr ""
+
+#: includes/theme-options.php:233
+msgid "Enter custom header top padding"
+msgstr ""
+
+#: includes/theme-options.php:241
+msgid "Header Bottom Padding"
+msgstr ""
+
+#: includes/theme-options.php:242
+msgid "Enter custom header bottom padding"
+msgstr ""
+
+#: includes/theme-options.php:249
+msgid "Header Height ex. 76"
+msgstr ""
+
+#: includes/theme-options.php:250
+msgid "Enter custom header Height"
+msgstr ""
+
+#: includes/theme-options.php:256
+msgid "Default Header"
+msgstr ""
+
+#: includes/theme-options.php:257
+msgid ""
+"Select Header you want to display on page if header is not select while page "
+"creation."
+msgstr ""
+
+#: includes/theme-options.php:259
+msgid "1st Variation"
+msgstr ""
+
+#: includes/theme-options.php:260
+msgid "2nd Variation"
+msgstr ""
+
+#: includes/theme-options.php:267
+msgid "Display Login button on Top Header Bar"
+msgstr ""
+
+#: includes/theme-options.php:268
+msgid "Do you want to display Login button on Top Header Bar?"
+msgstr ""
+
+#: includes/theme-options.php:276
+msgid "Login URL"
+msgstr ""
+
+#: includes/theme-options.php:277
+msgid "Provide Login button URL"
+msgstr ""
+
+#: includes/theme-options.php:287
+msgid "Styling Option"
+msgstr ""
+
+#: includes/theme-options.php:289
+msgid "This section contains header styles options."
+msgstr ""
+
+#: includes/theme-options.php:301
+msgid "Header Style"
+msgstr ""
+
+#: includes/theme-options.php:303
+msgid "This section contains Header theme styles options."
+msgstr ""
+
+#: includes/theme-options.php:313
+msgid "Menu Color"
+msgstr ""
+
+#: includes/theme-options.php:323
+msgid "Menu hover Color"
+msgstr ""
+
+#: includes/theme-options.php:334
+msgid "Sub-Menu Color"
+msgstr ""
+
+#: includes/theme-options.php:347
+msgid "Sub-Menu hover Color"
+msgstr ""
+
+#: includes/theme-options.php:357
+msgid "Menu Font"
+msgstr ""
+
+#: includes/theme-options.php:358 includes/theme-options.php:397
+#: includes/theme-options.php:518
+msgid "Select the font for headings."
+msgstr ""
+
+#: includes/theme-options.php:359
+msgid "Lato is default font."
+msgstr ""
+
+#: includes/theme-options.php:376
+msgid "Header Top bar font Color"
+msgstr ""
+
+#: includes/theme-options.php:386
+msgid "Header Top bar Background Color"
+msgstr ""
+
+#: includes/theme-options.php:396
+msgid "Topbar Font"
+msgstr ""
+
+#: includes/theme-options.php:398
+msgid "top_header is default font."
+msgstr ""
+
+#: includes/theme-options.php:415
+msgid "Top Bar Link Color"
+msgstr ""
+
+#: includes/theme-options.php:429
+msgid "Basic Style"
+msgstr ""
+
+#: includes/theme-options.php:431
+msgid "This section contains Basic theme styles options."
+msgstr ""
+
+#: includes/theme-options.php:441
+msgid "Primary Color"
+msgstr ""
+
+#: includes/theme-options.php:463
+msgid "Secondary Color"
+msgstr ""
+
+#: includes/theme-options.php:476
+msgid "Third Color"
+msgstr ""
+
+#: includes/theme-options.php:494
+msgid "Fourth Color"
+msgstr ""
+
+#: includes/theme-options.php:509
+msgid "Do you want to change fonts?"
+msgstr ""
+
+#: includes/theme-options.php:511
+msgid "Yes"
+msgstr ""
+
+#: includes/theme-options.php:512
+msgid "No"
+msgstr ""
+
+#: includes/theme-options.php:517
+msgid "Headings Font"
+msgstr ""
+
+#: includes/theme-options.php:519 includes/theme-options.php:539
+msgid "Roboto is default font."
+msgstr ""
+
+#: includes/theme-options.php:537
+msgid "Text Font"
+msgstr ""
+
+#: includes/theme-options.php:538
+msgid "Select the font for body text."
+msgstr ""
+
+#: includes/theme-options.php:558
+msgid "Headings Color"
+msgstr ""
+
+#: includes/theme-options.php:569
+msgid "Text Color"
+msgstr ""
+
+#: includes/theme-options.php:578
+msgid "Link Color"
+msgstr ""
+
+#: includes/theme-options.php:590
+msgid "Quick CSS"
+msgstr ""
+
+#: includes/theme-options.php:591
+msgid ""
+"You can use this box for some quick css changes. For big changes, Use the "
+"custom.css file in css folder. In case of child theme please use style.css "
+"file in child theme."
+msgstr ""
+
+#: includes/theme-options.php:602
+msgid "Header"
+msgstr ""
+
+#: includes/theme-options.php:609
+msgid "Display Header Bar"
+msgstr ""
+
+#: includes/theme-options.php:610
+msgid "Do you want to display header?"
+msgstr ""
+
+#: includes/theme-options.php:612 includes/theme-options.php:633
+#: includes/theme-options.php:702 includes/theme-options.php:758
+#: includes/theme-options.php:839
+msgid "Display"
+msgstr ""
+
+#: includes/theme-options.php:613 includes/theme-options.php:634
+#: includes/theme-options.php:703 includes/theme-options.php:759
+#: includes/theme-options.php:840
+msgid "Hide"
+msgstr ""
+
+#: includes/theme-options.php:619
+msgid "Background Image"
+msgstr ""
+
+#: includes/theme-options.php:620
+msgid "Upload Background Image."
+msgstr ""
+
+#: includes/theme-options.php:629
+msgid "Display Breadcrumb on header"
+msgstr ""
+
+#: includes/theme-options.php:630
+msgid "Do you want to display Breadcrumb on header?"
+msgstr ""
+
+#: includes/theme-options.php:639
+msgid "Breadcrumb Separator"
+msgstr ""
+
+#: includes/theme-options.php:640
+msgid "Provide the Breadcrumb Separator"
+msgstr ""
+
+#: includes/theme-options.php:651
+msgid "Contact Us"
+msgstr ""
+
+#: includes/theme-options.php:658
+msgid "Address"
+msgstr ""
+
+#: includes/theme-options.php:659
+msgid "Provide the Address to display under address section"
+msgstr ""
+
+#: includes/theme-options.php:666
+msgid "Email Address"
+msgstr ""
+
+#: includes/theme-options.php:667
+msgid "Provide the Email Address to display under address section"
+msgstr ""
+
+#: includes/theme-options.php:673
+msgid "Phone No."
+msgstr ""
+
+#: includes/theme-options.php:674
+msgid "Provide the Phone No. to display under address section"
+msgstr ""
+
+#: includes/theme-options.php:680
+msgid "Fax No."
+msgstr ""
+
+#: includes/theme-options.php:681
+msgid "Provide the Fax No. to display under address section"
+msgstr ""
+
+#: includes/theme-options.php:692
+msgid "Footer"
+msgstr ""
+
+#: includes/theme-options.php:694
+msgid "This section contains footer related options."
+msgstr ""
+
+#: includes/theme-options.php:699
+msgid "Display Quick Contact Bar"
+msgstr ""
+
+#: includes/theme-options.php:700
+msgid "Do you want to Display Quick Contact Bar?"
+msgstr ""
+
+#: includes/theme-options.php:708
+msgid "Quick Contact Email Address"
+msgstr ""
+
+#: includes/theme-options.php:709
+msgid "Provide the Email Address to display on Quick Contact Bar"
+msgstr ""
+
+#: includes/theme-options.php:716
+msgid "Quick Contact Phone No."
+msgstr ""
+
+#: includes/theme-options.php:717
+msgid "Provide the Phone No. to display on Quick Contact Bar"
+msgstr ""
+
+#: includes/theme-options.php:724
+msgid "Quick Contact Chat URL."
+msgstr ""
+
+#: includes/theme-options.php:725
+msgid "Provide the URL of Chat for Quick Contact Bar"
+msgstr ""
+
+#: includes/theme-options.php:742
+msgid "About Text"
+msgstr ""
+
+#: includes/theme-options.php:743
+msgid "Provide the about text to display under footer section"
+msgstr ""
+
+#: includes/theme-options.php:744
+msgid ""
+"Lorem ipsum dolor sit amet, ectetur adipiscing elit.viverra tellus. Vivamus "
+"finibus, quam vitae pulvinar euismod, Lorem ipsum dolor sit amet, ectetur "
+"adipiscing elit.ectetur adipiscing elit.viverra tellusivamus finibus, quam "
+"vitae pulvinar euismod,"
+msgstr ""
+
+#: includes/theme-options.php:749
+msgid "Copyright Text"
+msgstr ""
+
+#: includes/theme-options.php:750
+msgid "Copyright &copy; 1999 - 2015 hostpress.com. All Rights Reserved"
+msgstr ""
+
+#: includes/theme-options.php:755
+msgid "Social Icons"
+msgstr ""
+
+#: includes/theme-options.php:756
+msgid "Do you want to display social icons in footer ?"
+msgstr ""
+
+#: includes/theme-options.php:764
+msgid "Skype Username"
+msgstr ""
+
+#: includes/theme-options.php:765
+msgid "Provide skype username to display its icon."
+msgstr ""
+
+#: includes/theme-options.php:772
+msgid "Twitter"
+msgstr ""
+
+#: includes/theme-options.php:773
+msgid "Provide twitter url to display its icon."
+msgstr ""
+
+#: includes/theme-options.php:780
+msgid "Facebook"
+msgstr ""
+
+#: includes/theme-options.php:781
+msgid "Provide facebook url to display its icon."
+msgstr ""
+
+#: includes/theme-options.php:788
+msgid "Google+"
+msgstr ""
+
+#: includes/theme-options.php:789
+msgid "Provide google+ url to display its icon."
+msgstr ""
+
+#: includes/theme-options.php:796
+msgid "LinkedIn"
+msgstr ""
+
+#: includes/theme-options.php:797
+msgid "Provide LinkedIn url to display its icon."
+msgstr ""
+
+#: includes/theme-options.php:804
+msgid "Pinterest"
+msgstr ""
+
+#: includes/theme-options.php:805
+msgid "Provide Pinterest url to display its icon."
+msgstr ""
+
+#: includes/theme-options.php:812
+msgid "Instagram"
+msgstr ""
+
+#: includes/theme-options.php:813
+msgid "Provide Instagram url to display its icon."
+msgstr ""
+
+#: includes/theme-options.php:820
+msgid "YouTube"
+msgstr ""
+
+#: includes/theme-options.php:821
+msgid "Provide YouTube url to display its icon."
+msgstr ""
+
+#: includes/theme-options.php:828
+msgid "RSS"
+msgstr ""
+
+#: includes/theme-options.php:829
+msgid "Provide RSS feed url to display its icon."
+msgstr ""
+
+#: includes/theme-options.php:836
+msgid "Display Country Dropdown"
+msgstr ""
+
+#: includes/theme-options.php:837
+msgid "Do you want to Display Country Dropdown?"
+msgstr ""
+
+#: includes/vc_templates.php:5
+msgid "Domain Search Style 1"
+msgstr ""
+
+#: includes/vc_templates.php:13
+msgid "Domain Search Style 2"
+msgstr ""
+
+#: includes/vc_templates.php:27
+msgid "Landing Page"
+msgstr ""
+
+#: includes/vc_templates.php:34
+msgid "Call to Action Page"
+msgstr ""
+
+#: includes/vc_templates.php:41
+msgid "Feature List"
+msgstr ""
+
+#: includes/vc_templates.php:48
+msgid "Description Page"
+msgstr ""
+
+#: includes/vc_templates.php:55
+msgid "Service List"
+msgstr ""
+
+#: includes/vc_templates.php:62
+msgid "Product Page"
+msgstr ""
+
+#: includes/vc_templates.php:68
+msgid "FAQ section"
+msgstr ""
+
+#: includes/vc_templates.php:75
+msgid "About section"
+msgstr ""
+
+#: includes/vc_templates.php:82
+msgid "About with features"
+msgstr ""
+
+#: includes/vc_templates.php:89
+msgid "Three image description"
+msgstr ""
+
+#: includes/vc_templates.php:96
+msgid "News list"
+msgstr ""
+
+#: includes/vc_templates.php:103
+msgid "Product description"
+msgstr ""
+
+#: includes/vc_templates.php:110
+msgid "Description with accordion"
+msgstr ""
+
+#: includes/vc_templates.php:119
+msgid "Two column list"
+msgstr ""
+
+#: includes/vc_templates.php:126
+msgid "About with tour section"
+msgstr ""
+
+#: includes/vc_templates.php:137
+msgid "Rounded image description"
+msgstr ""
+
+#: includes/vc_templates.php:144
+msgid "Description with success message"
+msgstr ""
+
+#: includes/vc_templates.php:151
+msgid "Images with tab description"
+msgstr ""
+
+#: includes/vc_templates.php:158
+msgid "Square on background"
+msgstr ""
+
+#: includes/vc_templates.php:165
+msgid "Product description with tabs"
+msgstr ""
+
+#: includes/vc_templates.php:172
+msgid "Description with headings"
+msgstr ""
+
+#: includes/vc_templates.php:179
+msgid "Video with description"
+msgstr ""
+
+#: includes/vc_templates.php:186
+msgid "Description with buttons"
+msgstr ""
+
+#: includes/vc_templates.php:193
+msgid "Map and Contacts"
+msgstr ""
+
+#: includes/vc_templates.php:200
+msgid "Help section"
+msgstr ""
+
+#: includes/vc_templates.php:207
+msgid "Screen description"
+msgstr ""
+
+#: includes/vc_templates.php:214
+msgid "Description with round images"
+msgstr ""
+
+#: includes/vc_templates.php:221
+msgid "FAQ in three columns"
+msgstr ""
+
+#: includes/vc_templates.php:228
+msgid "Centre description"
+msgstr ""
+
+#: includes/vc_templates.php:235
+msgid "Description with gallery"
+msgstr ""
+
+#: includes/vc_templates.php:242
+msgid "Centre description with image"
+msgstr ""
+
+#: includes/vc_templates.php:249
+msgid "Description with thumbnails"
+msgstr ""
+
+#: includes/vc_templates.php:256
+msgid "About with left gallery"
+msgstr ""
+
+#: includes/vc_templates.php:263
+msgid "Five image layout"
+msgstr ""
+
+#: includes/vc_templates.php:270
+msgid "Accordion news list"
+msgstr ""
+
+#: includes/vc_templates.php:277
+msgid "Product with social icons"
+msgstr ""
+
+#: includes/vc_templates.php:284
+msgid "Complex news layout"
+msgstr ""
+
+#: includes/vc_templates.php:291
+msgid "Product list with CTA"
+msgstr ""
+
+#: includes/vc_templates.php:298
+msgid "Intro with features"
+msgstr ""
+
+#: includes/vc_templates.php:305
+msgid "Image gallery with description"
+msgstr ""
+
+#: includes/vc_templates.php:312
+msgid "Team members"
+msgstr ""
+
+#: includes/vc_templates.php:319
+msgid "Large image with thumbnails"
+msgstr ""
+
+#: includes/vc_templates.php:326
+msgid "Complex news layout II"
+msgstr ""
+
+#: includes/vc_templates.php:333
+msgid "Service description layout"
+msgstr ""
+
+#: includes/vc_templates.php:340
+msgid "Articles with headings"
+msgstr ""
+
+#: includes/vc_templates.php:355
+msgid "Call to Action section"
+msgstr ""
+
+#: includes/vc_templates.php:364
+msgid "Charts section"
+msgstr ""
+
+#: includes/vc_templates.php:379
+msgid "Chess Grid"
+msgstr ""
+
+#: includes/vc_templates.php:398
+msgid "Features and articles"
+msgstr ""
+
+#: includes/vc_templates.php:437
+msgid "Features and charts"
+msgstr ""
+
+#: includes/vc_templates.php:468
+msgid "Features with video parallax"
+msgstr ""
+
+#: includes/vc_templates.php:487
+msgid "Features with full width promo"
+msgstr ""
+
+#: includes/vc_templates.php:522
+msgid "Full height hero section"
+msgstr ""
+
+#: includes/vc_templates.php:533
+msgid "Full height with transparent block"
+msgstr ""
+
+#: includes/vc_templates.php:544
+msgid "Full height parallax"
+msgstr ""
+
+#: includes/vc_templates.php:551
+msgid "Header section with features"
+msgstr ""
+
+#: includes/vc_templates.php:578
+msgid "Helps with icons"
+msgstr ""
+
+#: includes/vc_templates.php:585
+msgid "Plain articles"
+msgstr ""
+
+#: includes/vc_templates.php:596
+msgid "Post portfolio"
+msgstr ""
+
+#: includes/vc_templates.php:603
+msgid "Product introduction"
+msgstr ""
+
+#: includes/vc_templates.php:626
+msgid "Services with block buttons"
+msgstr ""
+
+#: includes/vc_templates.php:645
+msgid "Tabs with features"
+msgstr ""
+
+#: includes/vc_templates.php:664
+msgid "Video section"
+msgstr ""
+
+#: includes/vc_templates.php:675
+msgid "Video promo"
+msgstr ""
+
+#: includes/widget-archives.php:10
+msgid "Hostingpress Archives"
+msgstr ""
+
+#: includes/widget-archives.php:10
+msgid "Display Tag Archives"
+msgstr ""
+
+#: includes/widget-archives.php:49
+msgid "ARCHIVES"
+msgstr ""
+
+#: includes/widget-archives.php:52 includes/widget-categories.php:50
+#: includes/widget-recent-post.php:65 includes/widget-search.php:49
+#: includes/widget-tagcloud.php:52
+msgid "Title:"
+msgstr ""
+
+#: includes/widget-categories.php:10
+msgid "Hostingpress Categories"
+msgstr ""
+
+#: includes/widget-categories.php:10
+msgid "Display Categories"
+msgstr ""
+
+#: includes/widget-recent-post.php:10
+msgid "Hostingpress Recent Post"
+msgstr ""
+
+#: includes/widget-recent-post.php:10
+msgid "Display Recent Post"
+msgstr ""
+
+#: includes/widget-recent-post.php:61
+msgid "Recent Post"
+msgstr ""
+
+#: includes/widget-recent-post.php:69
+msgid "Number of posts to show:"
+msgstr ""
+
+#: includes/widget-search.php:10
+msgid "Hostingpress Search"
+msgstr ""
+
+#: includes/widget-search.php:10
+msgid "Display Search"
+msgstr ""
+
+#: includes/widget-tagcloud.php:10
+msgid "Hostingpress Tags"
+msgstr ""
+
+#: includes/widget-tagcloud.php:10
+msgid "Display Tag Clouds"
+msgstr ""
+
+#: partial/post/post-format-audio.php:18
+msgid "play"
+msgstr ""
+
+#: partial/post/post-format-audio.php:19
+msgid "pause"
+msgstr ""
+
+#: partial/post/post-format-audio.php:20
+msgid "mute"
+msgstr ""
+
+#: partial/post/post-format-audio.php:21
+msgid "unmute"
+msgstr ""
+
+#: partial/post/post-format-gallery.php:31
+msgid "Previous"
+msgstr ""
+
+#: partial/post/post-format-gallery.php:35
+msgid "Next"
+msgstr ""
+
+#: single.php:27
+msgid "Pages:"
+msgstr ""
+
+#: single.php:66
+msgid "Related Posts"
+msgstr ""
+
+#: single.php:102
+msgid "Previous post"
+msgstr ""
+
+#: single.php:103
+msgid "Next post"
+msgstr ""
